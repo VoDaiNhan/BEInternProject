@@ -1,0 +1,26 @@
+﻿  Determining projects to restore...
+D:\dev\BEInternProject\src\BEInternProject.Application\BEInternProject.Application.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved. [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\BEInternProject.Infrastructure.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved. [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+  All projects are up-to-date for restore.
+D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.Application\BEInternProject.Application.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\BEInternProject.Infrastructure.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+  BEInternProject.Domain -> D:\dev\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.dll
+  BEInternProject.Application -> D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.dll
+  BEInternProject.Infrastructure -> D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.dll
+D:\dev\BEInternProject\src\BEInternProject.API\Program.cs(6,25): error CS0234: The type or namespace name 'Models' does not exist in the namespace 'Microsoft.OpenApi' (are you missing an assembly reference?) [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+
+Build FAILED.
+
+D:\dev\BEInternProject\src\BEInternProject.Application\BEInternProject.Application.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved. [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\BEInternProject.Infrastructure.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved. [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.Application\BEInternProject.Application.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\BEInternProject.Infrastructure.csproj : warning NU1608: Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.
+D:\dev\BEInternProject\src\BEInternProject.API\Program.cs(6,25): error CS0234: The type or namespace name 'Models' does not exist in the namespace 'Microsoft.OpenApi' (are you missing an assembly reference?) [D:\dev\BEInternProject\src\BEInternProject.API\BEInternProject.API.csproj]
+    6 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:02.09

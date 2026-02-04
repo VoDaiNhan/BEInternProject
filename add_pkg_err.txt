@@ -1,0 +1,8 @@
+﻿info : X.509 certificate chain validation will use the default trust store selected by .NET for code signing.
+info : X.509 certificate chain validation will use the default trust store selected by .NET for timestamping.
+info : Adding PackageReference for package 'Microsoft.AspNetCore.Authentication.JwtBearer2' into project 'src/BEInternProject.API/BEInternProject.API.csproj'.
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.authentication.jwtbearer2/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.authentication.jwtbearer2/index.json 386ms
+info :   GET https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.authentication.jwtbearer2/index.json
+info :   NotFound https://api.nuget.org/v3/registration5-gz-semver2/microsoft.aspnetcore.authentication.jwtbearer2/index.json 256ms
+error: There are no versions available for the package 'Microsoft.AspNetCore.Authentication.JwtBearer2'.

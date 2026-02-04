@@ -1,0 +1,17 @@
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.csproj.AssemblyReference.cache
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.AssemblyInfoInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.AssemblyInfo.cs
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.csproj.CoreCompileInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.deps.json
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.dll
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.pdb
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Application.dll
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Domain.dll
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Domain.pdb
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Application.pdb
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEIntern.5D21E7E9.Up2Date
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.dll
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\refint\BEInternProject.Infrastructure.dll
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.pdb
+D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\ref\BEInternProject.Infrastructure.dll

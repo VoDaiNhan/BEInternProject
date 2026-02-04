@@ -1,0 +1,15 @@
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.csproj.AssemblyReference.cache
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.AssemblyInfoInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.AssemblyInfo.cs
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.csproj.CoreCompileInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.deps.json
+D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.dll
+D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.pdb
+D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Domain.dll
+D:\dev\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Domain.pdb
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEIntern.64A826E8.Up2Date
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.dll
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\refint\BEInternProject.Application.dll
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.pdb
+D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\ref\BEInternProject.Application.dll

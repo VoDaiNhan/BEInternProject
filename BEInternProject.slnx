@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BEInternProject.API/BEInternProject.API.csproj" />
+    <Project Path="src/BEInternProject.Application/BEInternProject.Application.csproj" />
+    <Project Path="src/BEInternProject.Domain/BEInternProject.Domain.csproj" />
+    <Project Path="src/BEInternProject.Infrastructure/BEInternProject.Infrastructure.csproj" />
+  </Folder>
+  <Project Path="BEInternProject/BEInternProject.csproj" />
+</Solution>

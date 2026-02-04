@@ -1,0 +1,11 @@
+D:\dev\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.deps.json
+D:\dev\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.dll
+D:\dev\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.pdb
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.AssemblyInfoInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.AssemblyInfo.cs
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.csproj.CoreCompileInputs.cache
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.dll
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\refint\BEInternProject.Domain.dll
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.pdb
+D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\ref\BEInternProject.Domain.dll
