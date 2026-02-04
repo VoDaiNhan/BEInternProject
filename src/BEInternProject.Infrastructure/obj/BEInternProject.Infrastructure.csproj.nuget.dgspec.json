@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj": {}
+    "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
+    "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
+        "projectUniqueName": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
         "projectName": "BEInternProject.Application",
-        "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\obj\\",
+        "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
+        "packagesPath": "C:\\Users\\NGUYEN KHANH TAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NGUYEN KHANH TAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
-                "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
+              "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
               }
             }
           }
@@ -48,7 +49,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -79,24 +80,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+    "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
         "projectName": "BEInternProject.Domain",
-        "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\obj\\",
+        "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
+        "packagesPath": "C:\\Users\\NGUYEN KHANH TAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NGUYEN KHANH TAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -105,6 +106,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,7 +125,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -144,24 +146,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj": {
+    "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
         "projectName": "BEInternProject.Infrastructure",
-        "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\NGUYEN KHANH TAM\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NGUYEN KHANH TAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -170,17 +172,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
-                "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj"
+              "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
+                "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj"
               },
-              "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
-                "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
+              "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\NGUYEN KHANH TAM\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
               }
             }
           }
@@ -195,7 +198,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -209,6 +212,22 @@
               "target": "Package",
               "version": "[2.1.66, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.12, )"
+            },
             "Microsoft.Extensions.Configuration.Abstractions": {
               "target": "Package",
               "version": "[10.0.2, )"
@@ -220,6 +239,10 @@
             "Npgsql": {
               "target": "Package",
               "version": "[10.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.4, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
@@ -242,7 +265,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
