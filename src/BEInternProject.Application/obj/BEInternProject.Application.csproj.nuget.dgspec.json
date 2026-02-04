@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {}
+    "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {}
   },
   "projects": {
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
+    "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
         "projectName": "BEInternProject.Application",
-        "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
-                "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
+              "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+                "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
               }
             }
           }
@@ -79,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+    "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
         "projectName": "BEInternProject.Domain",
-        "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
+        "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\obj\\",
+        "outputPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\dev\\BEInternProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.application\\interfaces\\commoninterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|solutionrelative:src\\beinternproject.application\\interfaces\\commoninterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|solutionrelative:src\\beinternproject.infrastructure\\services\\jwttokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|solutionrelative:src\\beinternproject.infrastructure\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|solutionrelative:src\\beinternproject.infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|solutionrelative:src\\beinternproject.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BB76BA5-CE63-2B47-1302-A77EED4990A2}|src\\BEInternProject.Application\\BEInternProject.Application.csproj|solutionrelative:src\\beinternproject.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|c:\\users\\pc\\source\\repos\\beinternproject\\src\\beinternproject.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE589241-1C6E-168C-5195-4BC7ADADDACF}|src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj|solutionrelative:src\\beinternproject.infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +38,104 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtTokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "RelativeToolTip": "src\\BEInternProject.Infrastructure\\Services\\JwtTokenGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T06:59:13.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommonInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\Interfaces\\CommonInterfaces.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Application\\Interfaces\\CommonInterfaces.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\Interfaces\\CommonInterfaces.cs",
+              "RelativeToolTip": "src\\BEInternProject.Application\\Interfaces\\CommonInterfaces.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:02:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Infrastructure\\Services\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "src\\BEInternProject.Infrastructure\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:04:41.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "src\\BEInternProject.Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:02:31.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\BEInternProject.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:05:38.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\Class1.cs",
+              "RelativeToolTip": "src\\BEInternProject.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:05:37.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DbConnectionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\BEInternProject.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ToolTip": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "RelativeToolTip": "src\\BEInternProject.Infrastructure\\Data\\DbConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T07:02:30.585Z"
             }
           ]
         }

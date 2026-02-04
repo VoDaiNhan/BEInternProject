@@ -9,3 +9,15 @@ D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProje
 D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\refint\BEInternProject.Domain.dll
 D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.pdb
 D:\dev\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\ref\BEInternProject.Domain.dll
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.deps.json
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.dll
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\bin\Debug\net8.0\BEInternProject.Domain.pdb
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.AssemblyInfo.cs
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.sourcelink.json
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.dll
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\refint\BEInternProject.Domain.dll
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\BEInternProject.Domain.pdb
+C:\Users\PC\source\repos\BEInternProject\src\BEInternProject.Domain\obj\Debug\net8.0\ref\BEInternProject.Domain.dll

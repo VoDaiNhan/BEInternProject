@@ -792,11 +792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
       "projectName": "BEInternProject.Infrastructure",
-      "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -817,11 +817,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
-              "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj"
+            "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Application\\BEInternProject.Application.csproj"
             },
-            "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
-              "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
+            "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj": {
+              "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Domain\\BEInternProject.Domain.csproj"
             }
           }
         }
@@ -883,7 +883,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   },

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wYVFkeAedRU=",
+  "dgSpecHash": "h8cxC/lvsf8=",
   "success": true,
-  "projectFilePath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC\\.nuget\\packages\\automapper\\16.0.0\\automapper.16.0.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -26,9 +26,9 @@
       "code": "NU1608",
       "level": "Warning",
       "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 16.0.0 was resolved.",
-      "projectPath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\dev\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
+      "filePath": "C:\\Users\\PC\\source\\repos\\BEInternProject\\src\\BEInternProject.Infrastructure\\BEInternProject.Infrastructure.csproj",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"
