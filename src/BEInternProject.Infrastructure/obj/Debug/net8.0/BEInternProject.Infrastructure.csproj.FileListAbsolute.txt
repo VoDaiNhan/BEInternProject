@@ -15,3 +15,23 @@ D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInt
 D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\refint\BEInternProject.Infrastructure.dll
 D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.pdb
 D:\dev\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\ref\BEInternProject.Infrastructure.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.AssemblyInfo.cs
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.sourcelink.json
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.deps.json
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.runtimeconfig.json
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Infrastructure.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Application.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Domain.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Domain.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\bin\Debug\net8.0\BEInternProject.Application.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEIntern.5D21E7E9.Up2Date
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\refint\BEInternProject.Infrastructure.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\BEInternProject.Infrastructure.genruntimeconfig.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Infrastructure\obj\Debug\net8.0\ref\BEInternProject.Infrastructure.dll

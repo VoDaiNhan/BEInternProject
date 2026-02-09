@@ -13,3 +13,19 @@ D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEIntern
 D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\refint\BEInternProject.Application.dll
 D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.pdb
 D:\dev\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\ref\BEInternProject.Application.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.csproj.AssemblyReference.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.AssemblyInfoInputs.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.AssemblyInfo.cs
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.sourcelink.json
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.deps.json
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Application.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Domain.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\bin\Debug\net8.0\BEInternProject.Domain.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEIntern.64A826E8.Up2Date
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\refint\BEInternProject.Application.dll
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\BEInternProject.Application.pdb
+C:\Users\NGUYEN KHANH TAM\source\repos\BEInternProject\src\BEInternProject.Application\obj\Debug\net8.0\ref\BEInternProject.Application.dll

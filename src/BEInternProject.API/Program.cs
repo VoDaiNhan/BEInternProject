@@ -2,6 +2,7 @@ using BEInternProject.Application;
 using BEInternProject.Infrastructure;
 using DotNetEnv;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using System.Text;
@@ -23,11 +24,16 @@ builder.Configuration.AddEnvironmentVariables();
 // We will set connection string in appsettings but override with env if necessary.
 
 // Add services to the container.
-builder.Services.AddApplication();
+//builder.Services.AddApplication();
 builder.Services.AddInfrastructure();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
+
+builder.Services.AddDbContext<TaskWorklogDbContext>(opt =>
+{
+    opt.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
 
 // Swagger Config with JWT
 builder.Services.AddSwaggerGen(c =>
